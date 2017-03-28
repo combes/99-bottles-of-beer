@@ -7,7 +7,7 @@ I don't drink beer. I just saw a way to contribute some Swift code.
 Build project using the latest [Xcode](https://developer.apple.com/xcode/).
 Open a terminal window and run
 ```swift
-swift main.swift
+swift BottlesOfBeer.playground/Contents.swift
 ```
 
 # Sample Lyrics
