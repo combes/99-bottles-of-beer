@@ -4,8 +4,9 @@ This code is written as an example to support the [99 Bottles of Beer website](h
 I don't drink beer. I just saw a way to contribute some Swift code.
 
 # Building
-Build project using the latest [Xcode](https://developer.apple.com/xcode/).
-Open a terminal window and run
+Open playground using the latest [Xcode](https://developer.apple.com/xcode/).
+
+You can also open a terminal window and run
 ```swift
 swift BottlesOfBeer.playground/Contents.swift
 ```
